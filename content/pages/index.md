@@ -76,12 +76,14 @@ sections:
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+      - content: >
+          Yowie fixed my MTB drivetrain problems & upgraded my rear cassette to
+          a massive granny gear.They did a great job, the bike rides smoother
+          than new
+          ![](https://static.xx.fbcdn.net/images/emoji.php/v9/tfc/1/16/1f44d.png)
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Andrew Pollard**
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
