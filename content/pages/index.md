@@ -69,8 +69,7 @@ sections:
     grid_items:
       - content: >
           Just got my bike back from a service by Yowie Bikes. They did a great
-          job on my mountain bike which looks and feels much improved. Nice
-          blokes too!
+          job on my mountain bike which feels much improved. Nice blokes too!
 
 
           **Ian Sharples**
