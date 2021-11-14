@@ -5,7 +5,7 @@ sections:
     title: 'Hi, we''re the Northern Beaches Yowies.'
     subtitle: >-
       We provide friendly, local bicycle service and repair workshop on Sydney's
-      northern beaches. We do build and upgrades, work on all types of bike
+      northern beaches. We do build and upgrades, work on all types of bikes
     actions:
       - label: Contact the Yowie
         url: /contact
