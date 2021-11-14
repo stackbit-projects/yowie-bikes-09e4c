@@ -30,10 +30,8 @@ sections:
     features:
       - title: Builds and upgrades
         subtitle: 'You want it, we build it'
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: |
+          We're top blokes that build top bikes
         actions:
           - label: See Writing Samples
             url: /faq
