@@ -48,7 +48,7 @@ sections:
         content: |
           Local pickup available. Come by for an organic lager.
         actions:
-          - label: Learn More
+          - label: Learn about our philosophy
             url: /about
             style: secondary
             has_icon: true
