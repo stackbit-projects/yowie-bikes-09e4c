@@ -58,7 +58,7 @@ sections:
     title: We fix bikes
     subtitle: What we do
     features:
-      - title: Content Creation
+      - title: Tune ups
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
