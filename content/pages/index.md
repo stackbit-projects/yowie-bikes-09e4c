@@ -65,7 +65,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Testimonials
-    subtitle: What My Clients Say
+    subtitle: Yowie's happy customers
     grid_items:
       - content: >
           Just got my bike back from a service by Yowie Bikes. They did a great
