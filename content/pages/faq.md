@@ -21,11 +21,7 @@ sections:
       - title: Where are you located?
         content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis leo tincidunt venenatis interdum. Phasellus vel lobortis lectus. Curabitur aliquet augue id consectetur ultricies.\_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis leo tincidunt venenatis interdum. Phasellus vel lobortis lectus. Curabitur aliquet augue id consectetur ultricies.\_\n"
       - title: Do you accept cash?
-        content: >-
-          You can choose to provide the design yourself, or I can include a
-          design element to your proposal. I work with several wonderful
-          designers with ample experience in web, digital, campaign and
-          marketing design.
+        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis leo tincidunt venenatis interdum. Phasellus vel lobortis lectus. Curabitur aliquet augue id consectetur ultricies.\_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis leo tincidunt venenatis interdum. Phasellus vel lobortis lectus. Curabitur aliquet augue id consectetur ultricies.\_\n"
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
