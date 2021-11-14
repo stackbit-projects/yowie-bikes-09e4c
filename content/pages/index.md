@@ -94,12 +94,12 @@ sections:
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
+      - content: >
+          Yowie fixed my MTB drivetrain problems & upgraded my rear cassette to
+          a massive granny gear. They did a great job.
 
 
-          **Gordon Norman,** *Web Designer, Local Business*
+          **Andrew Pollard**
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
