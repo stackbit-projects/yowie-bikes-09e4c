@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: 'Hi, we''re the Northern Beaches Yowies.'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      friendly, local bicycle service and repair workshop on Sydney's northern
+      beaches. We do build and upgrades, work on all types of bikes. Fast turn
+      around.
     actions:
       - label: Contact the Yowie
         url: /contact
