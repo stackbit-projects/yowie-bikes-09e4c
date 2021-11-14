@@ -29,7 +29,7 @@ sections:
     subtitle: What we do
     features:
       - title: Builds and upgrades
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: 'You want it, we build it'
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
