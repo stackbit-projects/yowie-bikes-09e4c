@@ -112,9 +112,7 @@ sections:
     content: |
       ## Let's talk
 
-      If you would like more information about our services, 
-
-      get in touch!
+      If you would like more information about our services, get in touch!
     content_align: left
     form_position: right
     form_width: fifty
