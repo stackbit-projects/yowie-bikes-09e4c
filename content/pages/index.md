@@ -10,7 +10,7 @@ sections:
       - label: Contact the Yowie
         url: /contact
         style: primary
-        has_icon: true
+        has_icon: false
     image: /images/241206879_112137201241683_1366130517113754361_n.jpg
     image_alt: A smiling woman
     media_position: right
