@@ -55,7 +55,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: My services
+    title: We fix bikes
     subtitle: What we do
     features:
       - title: Content Creation
