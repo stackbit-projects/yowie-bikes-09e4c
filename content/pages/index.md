@@ -33,7 +33,7 @@ sections:
         content: |
           We're top blokes that build top bikes
         actions:
-          - label: See Writing Samples
+          - label: See our handiwork
             url: /faq
             style: primary
             has_icon: true
