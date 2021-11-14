@@ -5,7 +5,8 @@ sections:
     title: 'Hi, we''re the Northern Beaches Yowies.'
     subtitle: >-
       We provide friendly, local bicycle services and repairs in our Northern
-      Beaches workshop. We do build and upgrades, work on all types of bikes
+      Beaches workshop. We do build and upgrades and work on all types of bikes.
+      Drop by and say hi.
     actions:
       - label: Contact the Yowie
         url: /contact
@@ -27,7 +28,7 @@ sections:
     title: We fix bikes
     subtitle: What we do
     features:
-      - title: Tune ups
+      - title: Builds and upgrades
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
