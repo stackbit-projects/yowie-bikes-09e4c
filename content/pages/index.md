@@ -30,8 +30,7 @@ sections:
     features:
       - title: Builds and upgrades
         subtitle: 'You want it, we build it'
-        content: |
-          We're top blokes that build top bikes
+        content: "We're top blokes who build top bikes. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis leo tincidunt venenatis interdum. Phasellus vel lobortis lectus. Curabitur aliquet augue id consectetur ultricies.\_\n\n"
         actions:
           - label: See our handiwork
             url: /faq
