@@ -85,13 +85,12 @@ sections:
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
+      - content: >
+          Just got my bike back from a service by Yowie Bikes. They did a great
+          job on my mountain bike which feels much improved. Nice blokes too!
 
 
-          **Eleanor Carr,** *CTO, eCommerce Business*
+          **Ian Sharples**
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
