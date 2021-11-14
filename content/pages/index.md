@@ -158,7 +158,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Personal Theme
+      value: Yowie Bikes
       keyName: property
     - name: 'og:description'
       value: The preview of the Personal theme
