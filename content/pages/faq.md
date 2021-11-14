@@ -13,11 +13,7 @@ sections:
       - title: What is your process?
         content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis leo tincidunt venenatis interdum. Phasellus vel lobortis lectus. Curabitur aliquet augue id consectetur ultricies.\_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis leo tincidunt venenatis interdum. Phasellus vel lobortis lectus. Curabitur aliquet augue id consectetur ultricies.\_\n"
       - title: How long does it take?
-        content: >-
-          Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
-          and any other social media platform you wish to maintain. This
-          includes both posting relevant and interesting content, and replying
-          to questions and comments from your audience.
+        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis leo tincidunt venenatis interdum. Phasellus vel lobortis lectus. Curabitur aliquet augue id consectetur ultricies.\_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis leo tincidunt venenatis interdum. Phasellus vel lobortis lectus. Curabitur aliquet augue id consectetur ultricies.\_\n"
       - title: How do you base your pricing?
         content: >-
           Depending on the scope and timeline of your content needs, we can work
