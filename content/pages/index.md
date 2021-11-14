@@ -44,8 +44,7 @@ sections:
         media_width: sixty
       - title: High performance services
         subtitle: 'Fast turnaround, competitive prices'
-        content: |
-          Local pickup available. Come by for an organic lager.
+        content: "Local pickup available. Come by for an organic ale. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis leo tincidunt venenatis interdum. Phasellus vel lobortis lectus. Curabitur aliquet augue id consectetur ultricies.\_\n\n"
         actions:
           - label: Learn about our philosophy
             url: /about
