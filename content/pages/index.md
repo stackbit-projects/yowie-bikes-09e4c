@@ -45,10 +45,8 @@ sections:
         media_width: sixty
       - title: High performance services
         subtitle: 'Fast turnaround, competitive prices'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: |
+          Local pickup available. Come by for an organic lager.
         actions:
           - label: Learn More
             url: /about
