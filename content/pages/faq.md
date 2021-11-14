@@ -19,11 +19,7 @@ sections:
       - title: Do you only do MTBs?
         content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis leo tincidunt venenatis interdum. Phasellus vel lobortis lectus. Curabitur aliquet augue id consectetur ultricies.\_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis leo tincidunt venenatis interdum. Phasellus vel lobortis lectus. Curabitur aliquet augue id consectetur ultricies.\_\n"
       - title: Where are you located?
-        content: >-
-          The onboarding process typically lasts 3-4 days and consists of an
-          intro video call, an interview, a questionnaire and some back and
-          forth communication for technical purposes. After that, we can go as
-          fast as you need.
+        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis leo tincidunt venenatis interdum. Phasellus vel lobortis lectus. Curabitur aliquet augue id consectetur ultricies.\_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis leo tincidunt venenatis interdum. Phasellus vel lobortis lectus. Curabitur aliquet augue id consectetur ultricies.\_\n"
       - title: Do you accept cash?
         content: >-
           You can choose to provide the design yourself, or I can include a
