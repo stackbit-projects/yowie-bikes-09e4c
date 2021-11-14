@@ -78,9 +78,7 @@ sections:
         image_width: twenty-five
       - content: >
           Yowie fixed my MTB drivetrain problems & upgraded my rear cassette to
-          a massive granny gear.They did a great job, the bike rides smoother
-          than new
-          ![](https://static.xx.fbcdn.net/images/emoji.php/v9/tfc/1/16/1f44d.png)
+          a massive granny gear. They did a great job.
 
 
           **Andrew Pollard**
